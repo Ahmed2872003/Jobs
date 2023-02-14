@@ -1,1 +1,1 @@
-Link: https://jobs-appllication.netlify.app/
+Link: https://jobs-application.netlify.app/
